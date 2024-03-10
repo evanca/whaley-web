@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"version.json": "aae996cfb207b9043da1c1b7685f858b",
-"index.html": "a0a93fbcb01c5f9ee052a65ce442b087",
-"/": "a0a93fbcb01c5f9ee052a65ce442b087",
-"main.dart.js": "042fa06efd6800992806e6f95eb61b66",
+const RESOURCES = {"version.json": "4a481d18a95c94d368114309b07b9aed",
+"index.html": "d2d8272d659bddc1d0c63b1a142943aa",
+"/": "d2d8272d659bddc1d0c63b1a142943aa",
+"main.dart.js": "d2a0ad8ec9b003deacea1fa5200d5ecf",
 "flutter.js": "7d69e653079438abfbb24b82a655b0a4",
 "favicon.png": "c0f977270c00d44bb9a6543472c3177c",
 "icons/Icon-192.png": "2e6571d476a1786ee4234fc99647e230",
@@ -49,7 +49,7 @@ const RESOURCES = {"version.json": "aae996cfb207b9043da1c1b7685f858b",
 "build/ios/Pods.build/Release-iphonesimulator/firebase_core.build/dgph": "c542a5c4a853ebc23a944c136a3594dd",
 "build/ios/Pods.build/Release-iphonesimulator/Firebase.build/dgph": "c542a5c4a853ebc23a944c136a3594dd",
 "assets/AssetManifest.json": "cf821cf94e74c3370a698f391c18be4d",
-"assets/NOTICES": "9f04458ad477ec3348b993e6c467e106",
+"assets/NOTICES": "a21b0339682c18072a2534b303053b9f",
 "assets/FontManifest.json": "e959a4020239da7dccbd2847bd89c10a",
 "assets/AssetManifest.bin.json": "1dcbae12d7dea87e8854f581b6b48e8a",
 "assets/packages/nes_ui/google_fonts/OFL.txt": "5096248a0ad125929b038a264f57b570",
